@@ -1,5 +1,6 @@
 # Deepfake_Detector
 # 🧠 Deepfake Detection using Machine Learning
+(Not included the .h5 file due to large size)
 
 A project to detect manipulated (deepfake) images using deep learning and computer vision techniques. This tool helps identify forged faces and content, aiding in digital forensics and online safety.
 
